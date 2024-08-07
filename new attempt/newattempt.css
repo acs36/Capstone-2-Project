@@ -12,18 +12,18 @@
 }
 
 .text {
-    grid-column-start: 2;
+    grid-column-start: 1;
     grid-column-end: 4;
     grid-row-start: 3;
     font-size: 3rem;
-    margin: 1rem;
+    margin-left: 2rem;
 }
 
 .text-2 {
-    grid-column-start: 2;
+    grid-column-start: 1;
     grid-column-end: 4;
     grid-row-start: 4;
-    margin: 1rem;
+    margin-left: 2rem;
     font-size: 1.5rem;
 }
 

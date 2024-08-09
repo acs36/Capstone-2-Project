@@ -27,3 +27,7 @@
     font-size: 1.5rem;
 }
 
+.first-image {
+    grid-column-start: 4;
+    grid-row-start: 2;
+}

@@ -28,8 +28,6 @@
 }
 
 .first-image {
-    height: 1rem;
-    width: 3rem;
     grid-column-start: 4;
     grid-row-start: 2;
 }

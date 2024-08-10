@@ -27,7 +27,8 @@
     font-size: 1.5rem;
 }
 
-img {
+.first-image {
     height: 500px;
-    
+    grid-column-start: 5;
+    grid-row-start: 2;
 }

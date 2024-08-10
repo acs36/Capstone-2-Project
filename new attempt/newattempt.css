@@ -28,7 +28,8 @@
 }
 
 .first-image {
-    height: 500px;
+    height: 1rem;
+    width: 3rem;
     grid-column-start: 5;
     grid-row-start: 2;
 }

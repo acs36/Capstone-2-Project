@@ -29,5 +29,5 @@
 
 .first-image {
     grid-column-start: 4;
-    grid-row-start: 2;
+    justify-self: end;
 }

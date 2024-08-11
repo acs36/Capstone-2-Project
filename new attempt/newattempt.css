@@ -62,10 +62,16 @@
         margin-left: 2rem;
         font-size: 1.5rem;
         margin-top: -3rem;
+        margin-right: 2rem;
     }
    
     .first-image { 
         width: 2rem;
+        grid-column-start: 1;
+    }
+
+    image {
+        height: 300px;
     }
 
 

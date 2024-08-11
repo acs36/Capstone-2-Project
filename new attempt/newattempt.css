@@ -33,6 +33,19 @@
 }
 
 @media only screen and (max-width: 600px) {
+    .background-box {
+        background-color: white;
+        background-repeat: none;
+        border-radius: 2%;
+        margin: 50px;
+        height: 1200px;
+        box-sizing: border-box;
+        box-shadow: rgba(0,0,0,0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    }
+   
     .first-image { 
         width: 2rem;
     }

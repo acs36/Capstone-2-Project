@@ -31,3 +31,9 @@
     grid-column-start: 7;
     grid-row-start: 4;
 }
+
+@media (max-width: 35rem){
+    .first-image {
+        width: 500px;
+    }
+}

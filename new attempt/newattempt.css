@@ -101,7 +101,7 @@
     }
 
     .text {
-        grid-column-start: 2;
+        grid-column-start: 1;
         grid-column-end: 4;
         grid-row-start: 1;
         font-size: 3rem;
@@ -111,5 +111,6 @@
 
     .text-2 {
         grid-row-start: 3;
+        grid-column-start: 1;
     }
 }

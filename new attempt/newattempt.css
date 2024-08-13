@@ -32,6 +32,12 @@
     grid-row-start: 4;
 }
 
+@media only screen and (min-width: 340px) and (max-width:430px) {
+    img {
+        width: 225px;
+    }
+}
+
 @media only screen and (max-width: 600px) {
     .background-box {
         background-color: white;

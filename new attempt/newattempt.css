@@ -68,9 +68,10 @@
     .first-image { 
         width: 2rem;
         grid-column-start: 1;
+        grid-row-start: 3;
     }
 
-    image {
+    img {
         width: 425px;
     }
 
@@ -80,7 +81,7 @@
 @media only screen and (min-width: 600px) and (max-width:768px) {
     .first-image {
         grid-column-start: 1;
-        grid-row-start: 5;
+        grid-row-start: 3;
     }
 
     .background-box {
@@ -88,7 +89,7 @@
         background-repeat: none;
         border-radius: 2%;
         margin: 50px;
-        height: 800px;
+        height: 700px;
         box-sizing: border-box;
         box-shadow: rgba(0,0,0,0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
         display: grid;

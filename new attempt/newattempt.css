@@ -33,6 +33,15 @@
 }
 
 @media only screen and (min-width: 340px) and (max-width:430px) {
+    .text-2 {
+            grid-column-start: 1;
+            grid-column-end: 4;
+            grid-row-start: 4;
+            margin-left: 2rem;
+            font-size: 1.5rem;
+        }
+    
+    
     img {
         width: 225px;
     }

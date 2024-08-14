@@ -104,6 +104,7 @@
         margin-left: 2rem;
         font-size: 1.5rem;
         margin-right: 2rem;
+        margin-top: 1rem;
     }
    
     .first-image { 
@@ -113,7 +114,7 @@
     }
 
     img {
-        width: 425px;
+        width: 380px;
     }
 
 }

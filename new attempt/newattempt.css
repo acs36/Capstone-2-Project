@@ -197,3 +197,13 @@
         margin-right: 3rem;
     }
 }
+
+.image-box {
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    height: 400px;
+    width: 300px;
+    background-color: white;
+    background-repeat: none;
+    border-radius: 2%;
+    box-sizing: border-box;
+}

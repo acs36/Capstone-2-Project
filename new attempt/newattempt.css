@@ -36,6 +36,7 @@
 .me-image {
     height: 600px;
     border-radius: 2%;
+    margin-left: 4rem;
     box-sizing: border-box;
     box-shadow: rgba(0,0,0,0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
 }

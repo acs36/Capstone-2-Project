@@ -1,6 +1,4 @@
-html {
-    background-color: #CDE8E5;
-}
+
 
 
 .background-box {
@@ -51,6 +49,39 @@ html {
     background-repeat: none;
     border-radius: 2%;
     height: 500px;
+    box-sizing: border-box;
+    box-shadow: rgba(0,0,0,0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    margin-left: 2rem;
+}
+
+
+.third-background-box {
+    background-color: white;
+    background-repeat: none;
+    border-radius: 2%;
+    height: 500px;
+    box-sizing: border-box;
+    box-shadow: rgba(0,0,0,0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    margin-left: 2rem;
+}
+
+.fourth-background-box {
+    background-color: white;
+    background-repeat: none;
+    border-radius: 2%;
+    height: 500px;
+    margin: 75rem;
+    box-sizing: border-box;
+    box-shadow: rgba(0,0,0,0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    margin-left: 2rem;
+}
+
+.fith-background-box {
+    background-color: white;
+    background-repeat: none;
+    border-radius: 2%;
+    height: 500px;
+    margin: 100rem;
     box-sizing: border-box;
     box-shadow: rgba(0,0,0,0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
     margin-left: 2rem;

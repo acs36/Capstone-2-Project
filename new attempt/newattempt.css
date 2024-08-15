@@ -48,6 +48,7 @@
     height: 500px;
     box-sizing: border-box;
     box-shadow: rgba(0,0,0,0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    margin-left: 1rem;
 }
 
 @media only screen and (min-width: 340px) and (max-width:430px) {

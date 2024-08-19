@@ -54,6 +54,10 @@
     margin-left: 2rem;
 }
 
+.portfolio {
+    margin: 4rem;
+    margin-bottom: -2rem;
+}
 
 .third-background-box {
     background-color: white;

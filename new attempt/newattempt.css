@@ -135,6 +135,10 @@
     padding: 10px;
 }
 
+.container-skills {
+    margin: 30px;
+}
+
 .skills-info {
     display: flex;
     flex-direction: row;

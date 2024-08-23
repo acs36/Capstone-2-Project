@@ -130,6 +130,11 @@
     margin-bottom: 5rem;
 }
 
+.color-1 {
+    background-color: #CDE8E5;
+    padding: 10px;
+}
+
 .skills-info {
     display: flex;
     flex-direction: row;

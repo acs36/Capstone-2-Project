@@ -133,6 +133,7 @@
 .color-1 {
     background-color: #CDE8E5;
     padding: 10px;
+    margin-top: 5rem;
 }
 
 .container-skills {
@@ -144,6 +145,13 @@
     flex-direction: row;
 }
 
+.icon-one {
+    height: 1rem;
+}
+
+.icon-two {
+    height: 1rem;
+}
 
 @media only screen and (min-width: 340px) and (max-width:430px) {
     .background-box {

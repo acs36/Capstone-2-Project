@@ -145,13 +145,15 @@
     flex-direction: row;
 }
 
-.icon-one {
-    height: 1rem;
+.icon-image-one {
+    height: 200px;
 }
 
-.icon-two {
-    height: 1rem;
+.icon-image-two {
+    height: 200px;
 }
+
+
 
 @media only screen and (min-width: 340px) and (max-width:430px) {
     .background-box {

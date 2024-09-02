@@ -132,7 +132,7 @@
 
 .color-1 {
     background-color: #CDE8E5;
-    padding: 10px;
+    /*padding: 10px;*/
     margin-top: 5rem;
 }
 
@@ -143,16 +143,29 @@
 .skills-info {
     display: flex;
     flex-direction: row;
+    justify-content: center;
 }
 
 .icon-image-one {
-    height: 200px;
+    height: 125px;
 }
 
 .icon-image-two {
-    height: 200px;
+    height: 125px;
+    margin-top: 12px;
+    margin-left: 25px;
 }
 
+.icon-image-three {
+    height: 125px;
+    margin-left: 25px;
+}
+
+
+.text-body-emphasis {
+    display: flex;
+    justify-content: center;
+}
 
 
 @media only screen and (min-width: 340px) and (max-width:430px) {

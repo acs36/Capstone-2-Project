@@ -163,13 +163,15 @@
 }
 
 .icon-image-four {
-    height: 125px;
+    height: 110px;
     margin-left: 25px;
+    margin-top: 15px;
 }
 
 .icon-image-five {
-    height: 125px;
+    height: 115px;
     margin-left: 25px;
+    margin-top: 10px;
 }
 
 .text-body-emphasis {

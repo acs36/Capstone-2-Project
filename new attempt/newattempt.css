@@ -226,35 +226,46 @@
 }
 
 @media only screen and (min-width: 300px) and (max-width: 600px) {
+    .text-body-emphasis {
+        padding: 2rem;
+    }
+
     .skills-info {
         display: flex;
         flex-direction: column;
         justify-content: center;
+        align-items: center;
+        padding-bottom: 2rem;
     }
     
     .icon-image-one {
         height: 115px;
         width: 115px;
+        margin-left: 0px;
     }
     
     .icon-image-two {
         height: 115px;
         width: 115px;
+        margin-left: 0px;
     }
     
     .icon-image-three {
         height: 90px;
         width: 90px;
+        margin-left: 0px;
     }
     
     .icon-image-four {
         height: 100px;
         width: 100px
+        margin-left: 0px;
     }
     
     .icon-image-five {
         height: 105px;
         width: 105px;
+        margin-left: 0px;
     }
 }
 

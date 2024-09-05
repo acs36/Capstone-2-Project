@@ -226,6 +226,33 @@
 }
 
 @media only screen and (min-width: 431px) and (max-width: 600px) {
+    .icon-image-one {
+        height: 115px;
+        width: 115px;
+    }
+    
+    .icon-image-two {
+        height: 115px;
+        width: 115px;
+    }
+    
+    .icon-image-three {
+        height: 90px;
+        width: 90px;
+    }
+    
+    .icon-image-four {
+        height: 100px;
+        width: 100px
+    }
+    
+    .icon-image-five {
+        height: 105px;
+        width: 105px;
+    }
+}
+
+@media only screen and (min-width: 431px) and (max-width: 600px) {
     .background-box {
         background-color: white;
         background-repeat: none;

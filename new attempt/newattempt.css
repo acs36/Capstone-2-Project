@@ -226,6 +226,12 @@
 }
 
 @media only screen and (min-width: 300px) and (max-width: 600px) {
+    .skills-info {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
     .icon-image-one {
         height: 115px;
         width: 115px;
